@@ -1,9 +1,9 @@
 # ros-cheat-sheets
 Quick references for Robot Operating System (ROS)
 
-The references are available in printable PDF form.
-
 ## Command-line Tools Cheat Sheet
+
+[Download the PDF](https://github.com/TwoRedCells/ros-cheat-sheets/blob/master/ROS-command-line-cheat.pdf)
 
 * `catkin_find`
 * `catkin_init_workspace`
@@ -35,4 +35,4 @@ The references are available in printable PDF form.
 * `rosunit`
 * `roswtf`
 
-Please send corrections to the author.
+[Report corrections](https://github.com/TwoRedCells/ros-cheat-sheets/issues)
